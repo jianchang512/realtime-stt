@@ -7,7 +7,8 @@
 ## 界面截图
 
 **主界面:**
-![UI界面](https://pvtr2.pyvideotrans.com/1763045396558_image.png)
+![realtimestt0 1](https://github.com/user-attachments/assets/503e33c2-188b-424a-b3d8-b2949674e7ac)
+
 
 
 ## 主要功能
